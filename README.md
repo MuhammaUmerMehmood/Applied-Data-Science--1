@@ -11,7 +11,7 @@ File: /kaggle/input/mobile-device-usage-and-user-behavior-dataset Includes field
 
 **Setup**
 
-Clone the Repository (https://github.com/MuhammaUmerMehmood/Applied-Data-Science--1) Install Requirements  pip install -r requirements.txt  
+Clone the Repository (https://github.com/MuhammaUmerMehmood/Applied-Data-Science--1)  Install Requirements  pip install -r requirements.txt  
 
 **Workflow**
 
